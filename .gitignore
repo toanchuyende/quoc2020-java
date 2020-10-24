@@ -1,0 +1,54 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+~$nhThongTin.java.docx
+backup/quoc2020.backup_2020_10_15_22_47_20/temp/mongo/backup/quoc2020/users.metadata.json
+backup/quoc2020.backup_2020_10_15_22_47_20/temp/mongo/backup/quoc2020/users.bson
+backup/quoc2020.backup_2020_10_15_22_47_20/temp/mongo/backup/quoc2020/student.metadata.json
+backup/quoc2020.backup_2020_10_15_22_47_20/temp/mongo/backup/quoc2020/student.bson
+backup/quoc2020.backup_2020_10_15_22_47_20/temp/mongo/backup/quoc2020/staff.metadata.json
+backup/quoc2020.backup_2020_10_15_22_47_20/temp/mongo/backup/quoc2020/staff.bson
+backup/quoc2020.backup_2020_10_15_22_47_20/temp/mongo/backup/quoc2020/roles.metadata.json
+backup/quoc2020.backup_2020_10_15_22_47_20/temp/mongo/backup/quoc2020/roles.bson
+backup/quoc2020.backup_2020_10_15_22_47_20/temp/mongo/backup/quoc2020/post.metadata.json
+backup/quoc2020.backup_2020_10_15_22_47_20/temp/mongo/backup/quoc2020/post.bson
+backup/quoc2020.backup_2020_10_15_22_47_20/temp/mongo/backup/quoc2020/person.metadata.json
+backup/quoc2020.backup_2020_10_15_22_47_20/temp/mongo/backup/quoc2020/person.bson
+backup/quoc2020.backup_2020_10_15_22_47_20/temp/mongo/backup/quoc2020/parent.metadata.json
+backup/quoc2020.backup_2020_10_15_22_47_20/temp/mongo/backup/quoc2020/parent.bson
+backup/quoc2020.backup_2020_10_15_22_47_20/temp/mongo/backup/quoc2020/message.metadata.json
+backup/quoc2020.backup_2020_10_15_22_47_20/temp/mongo/backup/quoc2020/message.bson
+backup/quoc2020.backup_2020_10_15_22_47_20/temp/mongo/backup/quoc2020/lecturer.metadata.json
+backup/quoc2020.backup_2020_10_15_22_47_20/temp/mongo/backup/quoc2020/lecturer.bson
+backup/quoc2020.backup_2020_10_15_22_47_20/temp/mongo/backup/quoc2020/conversation.metadata.json
+backup/quoc2020.backup_2020_10_15_22_47_20/temp/mongo/backup/quoc2020/conversation.bson
